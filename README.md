@@ -1,7 +1,8 @@
 # Guilherme Cardodo
 
-Minha jornada em Análise e Desenvolvimento de Sistemas e Python está apenas começando. Desenvolvedor(a) iniciante, movido(a) pela paixão em inovar e aprender constantemente em projetos tech desafiadores..
+Minha jornada em Análise e Desenvolvimento de Sistemas e Python está apenas começando. Desenvolvedor(a) iniciante, movido(a) pela paixão em inovar e aprender constantemente em projetos tech desafiadores.
 
+---
 
 ### 🤖 Linguagens e Tecnologias
  
