@@ -23,14 +23,6 @@ Minha jornada em Análise e Desenvolvimento de Sistemas e Python está apenas co
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="javascript" 
-    title="javascript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://icons8.com.br/icon/108784/javascript" 
-/>
 
 <br/>
 <br/>
