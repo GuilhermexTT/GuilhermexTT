@@ -3,7 +3,7 @@
 **`Desenvolvedor Front-End`**
 
 Olá, eu sou o Guilherme Cardoso de Carvalho! 🚀
-Estudante de Análise e Desenvolvimento de Sistemas | JavaScript | React 
+Estudante de Análise e Desenvolvimento de Sistemas 
 
 Profissional em transição de carreira para a área de tecnologia, focado em criar interfaces modernas e funcionais. Atualmente, dedico-me ao estudo aprofundado de desenvolvimento web e à faculdade de ADS
 
