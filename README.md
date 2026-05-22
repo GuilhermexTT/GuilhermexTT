@@ -1,29 +1,37 @@
 # Guilherme Cardoso de Carvalho
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Front-End & Especialista em Automação`**
 
-Olá, eu sou o Guilherme Cardoso de Carvalho! 🚀
-Estudante de Análise e Desenvolvimento de Sistemas 
+Olá, eu sou o Guilherme! 🚀
+Graduando em Análise e Desenvolvimento de Sistemas (UNIP) e Co-fundador da Aether Solutions.
 
-Profissional em transição de carreira para a área de tecnologia, focado em criar interfaces modernas e funcionais. Atualmente, dedico-me ao estudo aprofundado de desenvolvimento web e à faculdade de ADS
+Acredito que a tecnologia de alto nível deve alinhar uma interface impecável a sistemas inteligentes. Transformo visões de negócio em plataformas web de alta performance e implemento fluxos automatizados em nuvem (com IA) para otimizar a eficiência de empresas. Além dos meus projetos como desenvolvedor, trago também a vivência de processos corporativos estruturados atuando como jovem aprendiz administrativo na PwC.
 
-### 🤖 Linguagens e Tecnologias
+### 💻 Desenvolvimento Front-End Premium
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Next.js" 
+    title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="React" 
+    title="React"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
     align="left" 
@@ -33,14 +41,35 @@ Profissional em transição de carreira para a área de tecnologia, focado em cr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Tailwind CSS" 
+    title="Tailwind CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 🤖 Automação, Backend & Ferramentas
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="n8n" 
+    title="n8n"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.simpleicons.org/n8n/FF6666" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
@@ -49,6 +78,14 @@ Profissional em transição de carreira para a área de tecnologia, focado em cr
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <br/>
