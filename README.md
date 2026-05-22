@@ -91,6 +91,18 @@ Acredito que a tecnologia de alto nível deve alinhar uma interface impecável a
 <br/>
 <br/>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:guilhermecardosodecarvalho534@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://aethersolutions.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/-Aether_Solutions-%230a0d17?style=for-the-badge&logo=vercel&logoColor=22d3ee" target="_blank">
+  </a>
+</p>
+
 
 
 
