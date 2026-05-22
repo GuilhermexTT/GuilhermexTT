@@ -92,7 +92,7 @@ Acredito que a tecnologia de alto nível deve alinhar uma interface impecável a
 <br/>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-cardoso-de-carvalho/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:guilhermecardosodecarvalho534@gmail.com">
@@ -102,6 +102,19 @@ Acredito que a tecnologia de alto nível deve alinhar uma interface impecável a
     <img src="https://img.shields.io/badge/-Aether_Solutions-%230a0d17?style=for-the-badge&logo=vercel&logoColor=22d3ee" target="_blank">
   </a>
 </p>
+
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=GuilhermexTT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermexTT&layout=compact&langs_count=7&theme=tokyonight"
+  />
+</div>
 
 
 
