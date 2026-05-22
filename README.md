@@ -106,14 +106,11 @@ Acredito que a tecnologia de alto nível deve alinhar uma interface impecável a
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=GuilhermexTT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermexTT&layout=compact&langs_count=7&theme=tokyonight"
-  />
+  
+  [![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuilhermexTT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/GuilhermexTT)
+
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermexTT&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/GuilhermexTT)
+
 </div>
 
 
